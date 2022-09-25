@@ -17,6 +17,7 @@ function App() {
       <Title />
       <MenuItems />
       <Title />
+      <Title />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
